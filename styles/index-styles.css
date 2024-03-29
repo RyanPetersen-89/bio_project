@@ -1,0 +1,50 @@
+body
+    {background-color: rgb(52, 44, 68);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    margin: 60px;
+    }
+
+    figure
+        {text-align: center;}
+    figcaption
+        {margin-top: 5px;}
+
+    .multi-column-container
+        {column-count: 2; margin-top: 20px; margin-bottom: 10px;}
+
+    .column-container img
+        {width: 150px; height: 100%; margin-top: 5px;}
+
+    .indented-paragraoh
+        {text-indent: 60px;}
+
+    .centered-txt
+        {text-align: center;}
+
+    .txt-size-small
+        {font-size: 18px;}
+
+    .txt-size-medium
+        {font-size: 22px;}
+
+    .txt-size-norm
+        {font-size: 24px;}
+
+    .txt-size-large
+        {font-size: 32px;}
+
+    .txt-size-xlarge
+        {font-size: 48px;}
+
+    .txt-size-xxlarge
+        {font-size: 56px;}
+
+    .color-white
+        {color:white;}
+
+    .color-red
+        {color: darkred;}
+
+    .color-purple
+        {color: rgb(131, 39, 197);}

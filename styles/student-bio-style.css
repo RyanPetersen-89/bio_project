@@ -1,0 +1,23 @@
+body
+    {    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    margin: 60px;}
+
+    .rounded
+        {border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;}
+
+    .lesson 
+        {background-color: lemonchiffon;}
+
+    .title 
+        {color: darkblue;}
+
+    #email 
+        {background-color: goldenrod;}
+
+    #github 
+        {background-color: lightsteelblue;}
+
+    #portfolio 
+        {background-color: darkorange;}
